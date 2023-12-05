@@ -80,7 +80,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'phishing_db',
         'USER': 'postgres',
-        'PASSWORD': 'Raghu@123',
+        'PASSWORD': '#put your password',
         'HOST': 'localhost',
     }
 }
