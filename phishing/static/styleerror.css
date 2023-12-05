@@ -1,0 +1,42 @@
+body {
+    background-color: #fafafa;
+}
+
+.header {
+    margin: 14.45px auto 12px;
+}
+
+.logo {
+    background: cover no-repeat;
+    width: 175px;
+    height: auto;
+}
+
+.messagecard {
+    background: #fff;
+    border: 1px solid #e6e6e6;
+    border-radius: 1px;
+    margin: 0 0 10px;
+    padding: 10px 0;
+    /* align-items: center; */
+    text-align: center;
+    width: 350px;
+
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.messagecard a {
+    text-decoration: none;
+}
+
+.errormessage p {
+    padding: 10px;
+}
+
+.line {
+    border: 1px solid grey;
+    margin: 10px;
+}
